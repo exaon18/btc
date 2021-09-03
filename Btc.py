@@ -133,7 +133,7 @@ print(banner)
 print(
     "\033[1;31mWELCOME..\033[1;0m:",
     myself.first_name,
-    "\n\033[1;0mBot Mining dogeClick Bot",
+    "\n\033[1;0mBot Mining btc Bot",
 )
 
 
